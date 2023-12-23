@@ -3,7 +3,7 @@ import axios from "axios"
 const http = () => {
 
     let options = {
-        baseURL: 'http://127.0.0.1:8000',
+        baseURL: 'https://hatodtakabackend-production.up.railway.app/',
         headers: {}
     }
 
